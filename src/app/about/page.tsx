@@ -46,6 +46,12 @@ const BTPage = async () => {
                 <LinkedinIcon/></a>
                 <a href="mailto:connect.aymaan@gmail.com"><MailIcon/></a>
                 </div>
+                 <div className='flex gap-3'>
+                <h3 className='font-bold italic text-lg'>Faizan Anzar</h3>
+                <a href="#">
+                <LinkedinIcon/></a>
+                <a href="mailto:fanzar.25@gmail.com"><MailIcon/></a>
+                </div>
                 <br />
 
 
