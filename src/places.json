@@ -1,0 +1,540 @@
+[
+  
+  
+    {
+      "name": "Victoria Memorial",
+      "slug": "victoria",
+      "image": "/images/victoria.jpg",
+      "title": "A grand marble building",
+      "description": "Victoria Memorial is a magnificent white marble structure located in the heart of Kolkata. Built in memory of Queen Victoria, it stands as a symbol of the British Empire in India. The memorial is surrounded by lush gardens and features a museum that houses artifacts from the colonial era. Visitors can explore galleries filled with paintings, sculptures, and historical documents. It is one of Kolkata's most iconic landmarks and attracts millions of tourists each year.",
+      "tags": ["historical", "landmark"],
+      "map": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.904728200184!2d88.36389561535674!3d22.54485888505984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027f99b5d21b93%3A0xa7b007c177e9b302!2sVictoria%20Memorial!5e0!3m2!1sen!2sin!4v1628653547850!5m2!1sen!2sin",
+        "location": "Victoria Memorial, Kolkata",
+        "latitude": 22.544858,
+        "longitude": 88.363896
+      }
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "slug": "dakshkali",
+      "image": "/images/dakshkali.jpg",
+      "title": "A renowned Hindu temple",
+      "description": "Dakshineswar Kali Temple is a famous Hindu temple situated on the banks of the Hooghly River. Dedicated to Goddess Kali, it attracts thousands of devotees every day. The temple's stunning architecture, with its towering spires and serene surroundings, creates a spiritually uplifting atmosphere. Visitors can witness rituals, partake in prayers, and explore the surrounding ghats.",
+      "tags": ["spiritual", "temple"],
+      "map": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8060457210453!2d88.37880981535666!3d22.61695128502884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b68b847c2bb%3A0xa004e2e57f15c25f!2sDakshineswar%20Kali%20Temple!5e0!3m2!1sen!2sin!4v1628653689324!5m2!1sen!2sin",
+        "location": "Dakshineswar Kali Temple, Kolkata",
+        "latitude": 22.616951,
+        "longitude": 88.378810
+      }
+    }
+  ,
+  
+    {
+      "name": "Howrah Bridge",
+      "slug": "howrah",
+      "image": "/images/howrah.jpg",
+      "title": "Gateway to Kolkata",
+      "description": "Howrah is an essential part of Kolkata, known for its iconic Howrah Bridge and bustling railway station. The area serves as a vital transportation hub connecting Kolkata to other regions. Visitors can explore the lively markets and enjoy the views of the river, making it a must-visit for anyone exploring the city.",
+      "tags": ["landmark", "transportation"],
+      "map": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8471351238396!2d88.34324081535661!3d22.590661185017632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027eb00ae4cbab%3A0x1e4001c12af49fcf!2sHowrah%20Bridge!5e0!3m2!1sen!2sin!4v1628653822173!5m2!1sen!2sin",
+        "location": "Howrah, Kolkata",
+        "latitude": 22.590661,
+        "longitude": 88.343241
+      }
+    },
+
+    {
+      "name": "Belur Math",
+      "slug": "belurmath",
+      "image": "/images/belurmath.jpg",
+      "title": "Spiritual center on the banks of the Ganges",
+      "description": "Belur Math, located on the banks of the Hooghly River, is the headquarters of the Ramakrishna Mission. Founded by Swami Vivekananda, it is a place of deep spiritual significance and architectural beauty. The temple is a harmonious blend of Hindu, Christian, and Islamic architectural styles, symbolizing unity among religions. Visitors from around the world come to Belur Math to meditate, pray, and experience the peaceful atmosphere. The complex also includes a museum dedicated to the life and teachings of Swami Vivekananda and his disciples.",
+      "tags": ["spiritual", "landmark"],
+      "map": {
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8113828405514!2d88.34870021535662!3d22.583390985021826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027f89cd0474cb%3A0xc823d12e66cb9cdb!2sBelur%20Math!5e0!3m2!1sen!2sin!4v1628654015679!5m2!1sen!2sin",
+        "location": "Belur Math, Kolkata",
+        "latitude": 22.583391,
+        "longitude": 88.348700
+      }
+    },
+{
+  "name": "Birla Museum",
+  "slug": "birlamuseum",
+  "image": "/images/birlamuseum.jpg",
+  "title": "Science and technology museum",
+  "description": "Birla Industrial & Technological Museum (BITM) is one of Kolkata’s oldest and most esteemed museums dedicated to science and technology. Established in 1959, the museum features interactive exhibits and displays across various fields of science, including physics, biology, and astronomy. It aims to engage visitors, especially students, in understanding complex scientific concepts through hands-on experiences. The museum also organizes educational programs, workshops, and planetarium shows, making it a hub for scientific exploration and learning.",
+  "tags": ["museum", "science"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13085.958849197895!2d88.36389471165944!3d22.53028726809503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b746844b71d%3A0x45d65e0aaaf15b2d!2sBirla%20Industrial%20%26%20Technological%20Museum!5e0!3m2!1sen!2sin!4v1600414252902!5m2!1sen!2sin",
+    "location": "Birla Industrial & Technological Museum, Kolkata",
+    "latitude": 22.530287,
+    "longitude": 88.363895
+  }
+},
+{
+  "name": "Biswa Bangla Gate",
+  "slug": "biswabangla",
+  "image": "/images/biswabangla.jpg",
+  "title": "Iconic gateway of New Town",
+  "description": "Biswa Bangla Gate, also known as Kolkata Gate, is a modern architectural marvel located in New Town, Kolkata. Shaped like a giant ring suspended in the air, the gate symbolizes the progress and growth of West Bengal. Visitors can access an observation deck at the top, which offers panoramic views of the surrounding area. The structure also features a cafe with a stunning aerial view of the city. It has quickly become a popular spot for both locals and tourists, especially in the evening when it is illuminated with colorful lights.",
+  "tags": ["landmark", "modern architecture"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.809751660069!2d88.43845471535662!3d22.617672585014186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0272ca5f999997%3A0x125e56372f315b9d!2sBiswa%20Bangla%20Gate!5e0!3m2!1sen!2sin!4v1628654381147!5m2!1sen!2sin",
+    "location": "New Town, Kolkata",
+    "latitude": 22.617673,
+    "longitude": 88.438455
+  }
+},
+{
+  "name": "Indian Museum",
+  "slug": "indianmuseum",
+  "image": "/images/indianmuseum.jpg",
+  "title": "The largest and oldest museum in India",
+  "description": "The Indian Museum, established in 1814, is the largest and oldest museum in India. It boasts an extensive collection of art, archaeology, and natural history artifacts. Visitors can explore galleries showcasing ancient sculptures, fossils, and Egyptian mummies, making it a treasure trove for history enthusiasts and tourists alike.",
+  "tags": ["museum", "history"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.9538742359705!2d88.3649991153642!3d22.561205585022507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02756c1c9a4c77%3A0xe7cabe8dca77d9de!2sIndian%20Museum!5e0!3m2!1sen!2sin!4v1628654671355!5m2!1sen!2sin",
+    "location": "Indian Museum, Kolkata",
+    "latitude": 22.561206,
+    "longitude": 88.364999
+  }
+},
+{
+  "name": "Acropolis Mall",
+  "slug": "acropolis",
+  "image": "/images/acropolis.jpg",
+  "title": "A modern shopping mall",
+  "description": "Acropolis Mall is one of the most popular shopping destinations in South Kolkata. This state-of-the-art mall offers a variety of international and domestic retail outlets, making it a haven for shoppers. Apart from shopping, the mall has a spacious food court offering diverse cuisines, along with a multiplex for movie lovers. The sleek and modern design of the mall provides a pleasant environment for visitors. It’s also a hotspot for community events and entertainment activities.",
+  "tags": ["shopping", "mall"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.145068593863!2d88.39259251535662!3d22.52606488501738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02756d4e6f6f7%3A0x80cbff2f3d5e76e0!2sAcropolis%20Mall!5e0!3m2!1sen!2sin!4v1628654803768!5m2!1sen!2sin",
+    "location": "Acropolis Mall, Kolkata",
+    "latitude": 22.526065,
+    "longitude": 88.392592
+  }
+},
+{
+  "name": "Alipore Museum",
+  "slug": "aliporemuseum",
+  "image": "/images/aliporemuseum.jpg",
+  "title": "Colonial prison turned museum",
+  "description": "The Alipore Jail Museum, a part of Kolkata's colonial history, was once a notorious prison. It has now been converted into a museum to honor the freedom fighters who were imprisoned during British rule. The museum showcases important moments from India's struggle for independence and offers an immersive experience through photographs, letters, and relics. Visitors can walk through the prison cells, learning about the hardships faced by the inmates. It serves as both a historical site and a tribute to India’s freedom movement.",
+  "tags": ["museum", "historical"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.4371451923887!2d88.3030873153651!3d22.52389338502575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027ef1e8a5bdfd%3A0xc1e436fe53b1ad96!2sAlipore%20Museum!5e0!3m2!1sen!2sin!4v1628654945241!5m2!1sen!2sin",
+    "location": "Alipore Museum, Kolkata",
+    "latitude": 22.523893,
+    "longitude": 88.303087
+  }
+},
+{
+  "name": "Alipore Zoo",
+  "slug": "alipzoo",
+  "image": "/images/alipzoo.jpg",
+  "title": "Oldest zoo in India",
+  "description": "Alipore Zoological Gardens, commonly known as Alipore Zoo, is the oldest formally stated zoological park in India. Established in 1876, it spans over 46.5 acres and houses a wide variety of animals, including rare species like the Royal Bengal Tiger and the Indian Rhinoceros. The zoo also has an extensive collection of birds, reptiles, and amphibians, making it a popular spot for families and wildlife enthusiasts. Its lush greenery and expansive enclosures offer visitors a unique opportunity to connect with nature while observing wildlife.",
+  "tags": ["zoo", "wildlife"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.3020013136357!2d88.36072111536439!3d22.541855485022434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02756480261c51%3A0xaee74b5bb0f16854!2sAlipore%20Zoo!5e0!3m2!1sen!2sin!4v1628654764312!5m2!1sen!2sin",
+    "location": "Alipore Zoo, Kolkata",
+    "latitude": 22.541855,
+    "longitude": 88.360721
+  }
+},
+{
+  "name": "Aquatica",
+  "slug": "aquatica",
+  "image": "/images/aquatica.jpg",
+  "title": "A water amusement park",
+  "description": "Aquatica is a sprawling water amusement park in Kolkata, offering a wide variety of water rides and attractions for visitors of all ages. It features thrilling rides like wave pools, lazy rivers, and high-speed slides, making it a popular destination during the summer. The park also has accommodations and dining options, allowing visitors to spend an entire day enjoying the water activities. Aquatica is not just a park but a refreshing escape from the city's heat and hustle, attracting both locals and tourists alike.",
+  "tags": ["amusement", "water park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.366374404167!2d88.41183871536463!3d22.56575678502254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b20f400bc83%3A0x477c99f9a7d9f99!2sAquatica!5e0!3m2!1sen!2sin!4v1628655017433!5m2!1sen!2sin",
+    "location": "Aquatica, Kolkata",
+    "latitude": 22.565757,
+    "longitude": 88.411839
+  }
+},
+{
+  "name": "Arsalan",
+  "slug": "arsalan",
+  "image": "/images/arsalan.jpg",
+  "title": "Famous for biryani",
+  "description": "Arsalan is one of the most renowned restaurants in Kolkata, celebrated for its mouth-watering biryani and Mughlai cuisine. Established over a decade ago, Arsalan has become a household name for food lovers in the city. Known for its generous portions, flavorful spices, and tender meats, Arsalan’s biryani is a must-try for both locals and visitors. Apart from biryani, the restaurant offers an extensive menu of kebabs, curries, and desserts, making it a perfect spot for a traditional Mughlai meal.",
+  "tags": ["restaurant", "food"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.390502400654!2d88.35479931536418!3d22.558481985022837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02756489240c79%3A0x77b34f4cf142c10!2sArsalan!5e0!3m2!1sen!2sin!4v1628655244320!5m2!1sen!2sin",
+    "location": "Arsalan, Kolkata",
+    "latitude": 22.558482,
+    "longitude": 88.354799
+  }
+},
+{
+  "name": "Bada Bazar",
+  "slug": "badabazar",
+  "image": "/images/badabazar.jpg",
+  "title": "Wholesale shopping market",
+  "description": "Bada Bazar is one of Kolkata’s oldest and largest wholesale markets, famous for offering everything from textiles and jewelry to electronics at affordable prices. The bustling market is a maze of narrow lanes lined with shops selling a variety of goods. Bada Bazar is particularly popular for its collection of fabrics, clothing, and wedding accessories, attracting shoppers looking for good deals. It is a vibrant, crowded marketplace where bargaining is a common practice, making it a lively experience for both locals and tourists.",
+  "tags": ["shopping", "market"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.1381772917923!2d88.35948831536443!3d22.55893848502316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02756aa2633027%3A0xb28a2c0510986f6b!2sBada%20Bazar!5e0!3m2!1sen!2sin!4v1628655352848!5m2!1sen!2sin",
+    "location": "Bada Bazar, Kolkata",
+    "latitude": 22.558938,
+    "longitude": 88.359488
+  }
+},
+{
+  "name": "City Centre Mall",
+  "slug": "citycentre",
+  "image": "/images/citycentre.jpg",
+  "title": "A sprawling shopping complex",
+  "description": "City Centre Mall is a massive shopping and entertainment hub located in the Salt Lake area of Kolkata. Known for its open-air design and extensive range of stores, the mall caters to shoppers looking for both luxury brands and everyday essentials. It also boasts a diverse food court, restaurants, and a multiplex cinema, making it a popular hangout spot for families and friends. City Centre frequently hosts events, exhibitions, and live performances, making it more than just a shopping destination but a community space.",
+  "tags": ["shopping", "entertainment"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8702032354926!2d88.4028557153645!3d22.577149885022636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b352ea6bcbb%3A0x79854c5b3d1b8d24!2sCity%20Centre%20Mall!5e0!3m2!1sen!2sin!4v1628655523102!5m2!1sen!2sin",
+    "location": "City Centre Mall, Kolkata",
+    "latitude": 22.577150,
+    "longitude": 88.402856
+  }
+},
+{
+  "name": "Dadaboudi",
+  "slug": "dadaboudi",
+  "image": "/images/dadaboudi.jpg",
+  "title": "A serene riverside",
+  "description": "Dadaboudi is a peaceful riverside spot in Kolkata, ideal for those seeking a tranquil escape from the city's hustle. The area is known for its lush greenery and scenic views of the river, making it a popular destination for picnics and relaxation. Visitors can enjoy leisurely walks along the banks and immerse themselves in nature, far from the city's noise.",
+  "tags": ["nature", "park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8702032354926!2d88.4047081153645!3d22.577300485022494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b3511e2ab2b%3A0x2c36b0dbdd56e136!2sDadaboudi!5e0!3m2!1sen!2sin!4v1628657651892!5m2!1sen!2sin",
+    "location": "Dadaboudi, Kolkata",
+    "latitude": 22.577300,
+    "longitude": 88.404708
+  }
+},
+{
+  "name": "Eco Park",
+  "slug": "ecopark",
+  "image": "/images/ecopark.jpg",
+  "title": "An urban park for nature lovers",
+  "description": "Eco Park is a sprawling urban park in Kolkata, designed to promote environmental awareness and sustainability. With its beautiful landscapes, lakes, and walking trails, it offers a perfect escape for nature lovers. The park features various zones, including a butterfly garden and a rose garden, providing a tranquil setting for relaxation, picnics, and family outings.",
+  "tags": ["nature", "park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.9649461766754!2d88.4266755153644!3d22.582811585024007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c6b5a5a328f%3A0xd3076e7b840f7ec0!2sEco%20Park!5e0!3m2!1sen!2sin!4v1628657751713!5m2!1sen!2sin",
+    "location": "Eco Park, Kolkata",
+    "latitude": 22.582812,
+    "longitude": 88.426676
+  }
+},
+{
+  "name": "Esplanade",
+  "slug": "esplanade",
+  "image": "/images/esplanade.jpeg",
+  "title": "A bustling commercial hub",
+  "description": "Esplanade is a vibrant commercial area in the heart of Kolkata, known for its bustling atmosphere and historical significance. The area is lined with shops, restaurants, and iconic landmarks, making it a popular destination for shopping and entertainment. Visitors can explore the nearby theaters and cultural venues that showcase the city's rich heritage.",
+  "tags": ["shopping", "entertainment"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.811676682066!2d88.3421975153642!3d22.573267485023166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c1b4ab53b57%3A0x38da113bffb3dc45!2sEsplanade!5e0!3m2!1sen!2sin!4v1628657821230!5m2!1sen!2sin",
+    "location": "Esplanade, Kolkata",
+    "latitude": 22.573267,
+    "longitude": 88.342198
+  }
+},
+{
+  "name": "Forum Mall",
+  "slug": "forum",
+  "image": "/images/forum.jpg",
+  "title": "A popular shopping destination",
+  "description": "Forum Mall is a well-known shopping center in Kolkata that offers a blend of luxury and mid-range retail outlets. With its modern architecture, diverse food options, and entertainment facilities, it provides a complete shopping experience. The mall also features a multiplex cinema, making it a favored hangout spot for families and friends.",
+  "tags": ["shopping", "mall"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8275166342873!2d88.3963626153642!3d22.577349485023248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b32aa9d458b%3A0x62364e3f6bcd6a2d!2sForum%20Mall!5e0!3m2!1sen!2sin!4v1628657920960!5m2!1sen!2sin",
+    "location": "Forum Mall, Kolkata",
+    "latitude": 22.577349,
+    "longitude": 88.396363
+  }
+},
+{
+  "name": "Jorasanko Thakur Bari",
+  "slug": "jorasankothakurbari",
+  "image": "/images/jorasankothakurbari.jpg",
+  "title": "The ancestral home of Rabindranath Tagore",
+  "description": "Jorasanko Thakur Bari is the ancestral home of Rabindranath Tagore, the first non-European Nobel laureate. The house has been converted into a museum dedicated to his life and works. Visitors can explore the beautifully preserved rooms filled with memorabilia, manuscripts, and artworks, gaining insight into Tagore's contributions to literature and art.",
+  "tags": ["museum", "cultural"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.761200897968!2d88.36247921536429!3d22.578712285024575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c2c8d6f0d3f%3A0xdbe2e420330405fc!2sJorasanko%20Thakur%20Bari!5e0!3m2!1sen!2sin!4v1628658052710!5m2!1sen!2sin",
+    "location": "Jorasanko Thakur Bari, Kolkata",
+    "latitude": 22.578712,
+    "longitude": 88.362479
+  }
+},
+{
+  "name": "Maidan",
+  "slug": "maidan",
+  "image": "/images/maidan.jpg",
+  "title": "Kolkata's largest urban park",
+  "description": "Maidan is the largest urban park in Kolkata, spanning over 1000 acres. It serves as a green oasis amidst the urban landscape, featuring vast lawns, trees, and historical monuments. The park is popular for jogging, picnics, and outdoor sports, making it a favorite spot for locals seeking relaxation and recreation.",
+  "tags": ["nature", "park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8702032354926!2d88.3560168153665!3d22.563043985025305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b35256fbb5d%3A0xe87168856e4099ab!2sMaidan!5e0!3m2!1sen!2sin!4v1628659129927!5m2!1sen!2sin",
+    "location": "Maidan, Kolkata",
+    "latitude": 22.563043,
+    "longitude": 88.356016
+  }
+},
+{
+  "name": "Mani Square",
+  "slug": "manisquare",
+  "image": "/images/manisquare.jpg",
+  "title": "A modern shopping and entertainment complex",
+  "description": "Mani Square is a contemporary shopping mall in Kolkata, known for its wide range of retail shops, dining options, and entertainment facilities. The mall features a multiplex cinema and a gaming zone, making it a popular destination for families and friends looking to enjoy a day out together.",
+  "tags": ["shopping", "entertainment"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.9326145568877!2d88.438797215366!3d22.55814828502422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c250e6f0199%3A0x9b4c78e5e3ab6cd1!2sMani%20Square!5e0!3m2!1sen!2sin!4v1628659230563!5m2!1sen!2sin",
+    "location": "Mani Square, Kolkata",
+    "latitude": 22.558148,
+    "longitude": 88.438797
+  }
+},
+{
+  "name": "Marble Palace",
+  "slug": "marblepalace",
+  "image": "/images/marblepalace.jpg",
+  "title": "A stunning 19th-century mansion",
+  "description": "Marble Palace is a beautiful 19th-century mansion in Kolkata, renowned for its stunning architecture and exquisite art collection. The palace features marble flooring, elaborate gardens, and numerous paintings by famous artists. Visitors can explore the grandeur of this historical site, making it a significant cultural landmark in the city.",
+  "tags": ["historical", "landmark"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8231051231566!2d88.3541582153665!3d22.575112585022214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b35126264a9%3A0xaaa1ff02de97812f!2sMarble%20Palace!5e0!3m2!1sen!2sin!4v1628659323430!5m2!1sen!2sin",
+    "location": "Marble Palace, Kolkata",
+    "latitude": 22.575113,
+    "longitude": 88.354158
+  }
+},
+{
+  "name": "Millennium Park",
+  "slug": "millenniumpark",
+  "image": "/images/millenniumpark.jpg",
+  "title": "A picturesque riverside park",
+  "description": "Millennium Park is a serene riverside park in Kolkata, perfect for family outings and leisurely strolls. The park features beautifully landscaped gardens, walkways, and seating areas, offering stunning views of the Hooghly River. Visitors can enjoy recreational activities, picnics, and cultural events held in the park.",
+  "tags": ["nature", "park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.945624085704!2d88.34912331536661!3d22.568135085024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b3c2c44e8f5%3A0x28c5d479d005c92d!2sMillennium%20Park!5e0!3m2!1sen!2sin!4v1628659381593!5m2!1sen!2sin",
+    "location": "Millennium Park, Kolkata",
+    "latitude": 22.568135,
+    "longitude": 88.349123
+  }
+},
+{
+  "name": "Mother Wax Museum",
+  "slug": "motherwax",
+  "image": "/images/motherwax.jpg",
+  "title": "A museum of wax figures",
+  "description": "Mother Wax Museum is a unique attraction in Kolkata, featuring lifelike wax figures of famous personalities from various fields. The museum offers an engaging experience for visitors, allowing them to pose with their favorite stars and historical figures. It's an entertaining spot for families and tourists alike.",
+  "tags": ["museum", "entertainment"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.745874234839!2d88.47401541536648!3d22.577750785022367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027bf8fc9cdcb3%3A0x5b7014905914eb83!2sMother%20Wax%20Museum!5e0!3m2!1sen!2sin!4v1628659430410!5m2!1sen!2sin",
+    "location": "Mother Wax Museum, Kolkata",
+    "latitude": 22.577751,
+    "longitude": 88.474015
+  }
+},
+{
+  "name": "Nakhoda Masjid",
+  "slug": "nakhodamasjid",
+  "image": "/images/nakhodamasjid.jpg",
+  "title": "A grand mosque in Kolkata",
+  "description": "Nakhoda Masjid is one of the largest mosques in Kolkata, known for its stunning architecture and intricate designs. The mosque features beautiful domes, minarets, and a serene courtyard. It serves as a place of worship and cultural significance, attracting visitors interested in its architectural beauty and history.",
+  "tags": ["spiritual", "landmark"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7710820637455!2d88.37251561536649!3d22.575711485025317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027bf7c32f2365%3A0xd6dc871a308d444f!2sNakhoda%20Masjid!5e0!3m2!1sen!2sin!4v1628659463516!5m2!1sen!2sin",
+    "location": "Nakhoda Masjid, Kolkata",
+    "latitude": 22.575711,
+    "longitude": 88.372516
+  }
+},
+{
+  "name": "National Library",
+  "slug": "nationallibrary",
+  "image": "/images/nationallibrary.jpg",
+  "title": "The largest library in India",
+  "description": "The National Library of India is the largest library in the country, housing a vast collection of books and manuscripts. Situated in Belvedere Estate, the library is an architectural marvel, with beautiful colonial-era buildings surrounded by lush gardens. It serves as an important resource for researchers, scholars, and book lovers.",
+  "tags": ["library", "education"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.718472019633!2d88.35150431536646!3d22.54084768502947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0274e0d759dc97%3A0x64709b59a877d98b!2sNational%20Library%20of%20India!5e0!3m2!1sen!2sin!4v1628659592840!5m2!1sen!2sin",
+    "location": "National Library, Kolkata",
+    "latitude": 22.540848,
+    "longitude": 88.351504
+  }
+},
+{
+  "name": "Netaji Bhawan",
+  "slug": "netajibhawan",
+  "image": "/images/netajibhawan.jpg",
+  "title": "The residence of Netaji Subhas Chandra Bose",
+  "description": "Netaji Bhawan is a historic site in Kolkata, serving as the residence of the prominent leader Netaji Subhas Chandra Bose. The house has been converted into a museum showcasing his life, achievements, and contributions to India's independence. Visitors can explore exhibits that highlight Bose's legacy and his role in the freedom struggle.",
+  "tags": ["museum", "historical"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.677060270221!2d88.35299921536657!3d22.563577985023453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b352b17f73f%3A0x4b626b37c2f3e916!2sNetaji%20Bhawan!5e0!3m2!1sen!2sin!4v1628659673488!5m2!1sen!2sin",
+    "location": "Netaji Bhawan, Kolkata",
+    "latitude": 22.563578,
+    "longitude": 88.352999
+  }
+},
+{
+  "name": "Nicco Park",
+  "slug": "nicco",
+  "image": "/images/nicco.jpg",
+  "title": "An amusement park for all ages",
+  "description": "Nicco Park is a popular amusement park in Kolkata, offering a variety of rides and attractions for visitors of all ages. The park features thrilling rides, water slides, and recreational areas, making it an ideal destination for family outings and fun-filled days. It also hosts events and activities throughout the year.",
+  "tags": ["amusement", "entertainment"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7375611878073!2d88.37353031536655!3d22.5752546850257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027bf3b1f4b517%3A0x2cb6be64794f3c4a!2sNicco%20Park!5e0!3m2!1sen!2sin!4v1628659744165!5m2!1sen!2sin",
+    "location": "Nicco Park, Kolkata",
+    "latitude": 22.575255,
+    "longitude": 88.373530
+  }
+},
+{
+  "name": "Putul Bari",
+  "slug": "putulbari",
+  "image": "/images/putulbari.jpg",
+  "title": "A traditional house of dolls",
+  "description": "Putul Bari is a unique cultural site in Kolkata, showcasing a collection of traditional dolls and puppets from various regions of India. The house serves as a museum and a workshop, allowing visitors to learn about the art of doll-making. It's a charming spot for families and those interested in traditional crafts.",
+  "tags": ["cultural", "museum"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7575346730694!2d88.34658221536646!3d22.5803846850224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b35cf4cb781%3A0x2f5d4919629131a1!2sPutul%20Bari!5e0!3m2!1sen!2sin!4v1628659789577!5m2!1sen!2sin",
+    "location": "Putul Bari, Kolkata",
+    "latitude": 22.580385,
+    "longitude": 88.346582
+  }
+},
+{
+  "name": "Quest Mall",
+  "slug": "quest",
+  "image": "/images/quest.jpg",
+  "title": "A luxurious shopping experience",
+  "description": "Quest Mall is an upscale shopping destination in Kolkata, featuring a wide range of luxury brands, fine dining, and entertainment options. The mall's modern architecture and elegant design create a sophisticated shopping atmosphere. Visitors can enjoy shopping, dining, and leisure activities all under one roof.",
+  "tags": ["shopping", "luxury"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.928926907308!2d88.42495221536651!3d22.56197068502491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c241e07d62b%3A0xe9c6d74b45b0fbe1!2sQuest%20Mall!5e0!3m2!1sen!2sin!4v1628659860918!5m2!1sen!2sin",
+    "location": "Quest Mall, Kolkata",
+    "latitude": 22.561971,
+    "longitude": 88.424952
+  }
+},
+{
+  "name": "Rabindra Sarobar",
+  "slug": "rabindrasarobar",
+  "image": "/images/rabindrasarobar.jpg",
+  "title": "A beautiful lake and park",
+  "description": "Rabindra Sarobar is a picturesque lake and park in Kolkata, named after the poet Rabindranath Tagore. The area features lush greenery, walking trails, and boating facilities, making it a popular spot for relaxation and recreation. It's a favorite destination for morning walkers, families, and nature enthusiasts.",
+  "tags": ["nature", "park"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656945.2674853004!2d88.3383066!3d22.5114129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027d22b42b50a1%3A0x40d59bb37467bc02!2sRabindra%20Sarobar!5e0!3m2!1sen!2sin!4v1628660255892!5m2!1sen!2sin",
+    "location": "Rabindra Sarobar, Kolkata",
+    "latitude": 22.511413,
+    "longitude": 88.338307
+  }
+},
+{
+  "name": "Science City",
+  "slug": "sciencecity",
+  "image": "/images/sciencecity.jpg",
+  "title": "An educational amusement park",
+  "description": "Science City is a fascinating educational amusement park in Kolkata, dedicated to promoting science and technology. The park features interactive exhibits, science demonstrations, and a planetarium, making it a great destination for families and students. Visitors can learn about various scientific concepts while enjoying fun rides and attractions.",
+  "tags": ["science", "education"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.9118813921806!2d88.39677321536642!3d22.562991385024824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b9f0048eb81%3A0x6e14de26b358f5e4!2sScience%20City!5e0!3m2!1sen!2sin!4v1628650506174!5m2!1sen!2sin",
+    "location": "Science City, Kolkata",
+    "latitude": 22.562991,
+    "longitude": 88.396773
+  }
+},
+{
+  "name": "South City",
+  "slug": "southcity",
+  "image": "/images/southcity.jpg",
+  "title": "A modern residential area",
+  "description": "South City is a modern residential area in Kolkata, known for its spacious apartments and well-planned infrastructure. It features shopping malls, parks, and recreational facilities, making it a popular choice for families. The area offers a blend of urban convenience and serene living, attracting residents and visitors alike.",
+  "tags": ["residential", "urban"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.9270269901464!2d88.42419121536647!3d22.562306785025115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b60c93cbd73%3A0x3dfcf0c7b4629fb4!2sSouth%20City!5e0!3m2!1sen!2sin!4v1628650744136!5m2!1sen!2sin",
+    "location": "South City, Kolkata",
+    "latitude": 22.562307,
+    "longitude": 88.424191
+  }
+},
+{
+  "name": "South Park Cemetery",
+  "slug": "southparkcemetery",
+  "image": "/images/southparkcemetery.jpg",
+  "title": "A historic cemetery with rich heritage",
+  "description": "South Park Cemetery is a historic cemetery in Kolkata, known for its beautiful tombs and serene environment. The cemetery holds significant historical value, with many notable personalities buried here. Visitors can explore the unique architecture of the tombs and learn about the city's colonial history.",
+  "tags": ["historical", "heritage"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.926249283248!2d88.42176081536639!3d22.562887185025046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b14f7842c73%3A0x776f84c7332b8e63!2sSouth%20Park%20Cemetery!5e0!3m2!1sen!2sin!4v1628650861224!5m2!1sen!2sin",
+    "location": "South Park Cemetery, Kolkata",
+    "latitude": 22.562887,
+    "longitude": 88.421761
+  }
+},
+{
+  "name": "St. Paul’s Cathedral",
+  "slug": "stpaul",
+  "image": "/images/stpaul.jpg",
+  "title": "A majestic Anglican cathedral",
+  "description": "St. Paul's Cathedral is a magnificent Anglican cathedral in Kolkata, known for its stunning Gothic architecture and serene gardens. The cathedral's tall spires and intricate stained glass windows create a peaceful atmosphere for visitors. It's a popular site for worship, photography, and exploring the city's colonial heritage.",
+  "tags": ["spiritual", "historical"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.928931846843!2d88.42495221536651!3d22.561971085024917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c23f0032c61%3A0x6a27eaa9f53676cb!2sSt.%20Paul's%20Cathedral!5e0!3m2!1sen!2sin!4v1628650974569!5m2!1sen!2sin",
+    "location": "St. Paul’s Cathedral, Kolkata",
+    "latitude": 22.561971,
+    "longitude": 88.424952
+  }
+},
+  
+{
+  "name": "St. Paul’s Cathedral",
+  "slug": "stpaul",
+  "image": "/images/stpaul.jpg",
+  "title": "A majestic Anglican cathedral",
+  "description": "St. Paul's Cathedral is a magnificent Anglican cathedral in Kolkata, known for its stunning Gothic architecture and serene gardens. The cathedral's tall spires and intricate stained glass windows create a peaceful atmosphere for visitors. It's a popular site for worship, photography, and exploring the city's colonial heritage.",
+  "tags": ["spiritual", "historical"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.928931846843!2d88.42495221536651!3d22.561971085024917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c23f0032c61%3A0x6a27eaa9f53676cb!2sSt.%20Paul's%20Cathedral!5e0!3m2!1sen!2sin!4v1628650974569!5m2!1sen!2sin",
+    "location": "St. Paul’s Cathedral, Kolkata",
+    "latitude": 22.561971,
+    "longitude": 88.424952
+  }
+},
+{
+  "name": "Sufia",
+  "slug": "sufia",
+  "image": "/images/sufia.jpg",
+  "title": "A traditional eatery with delicious cuisine",
+  "description": "Sufia is a renowned eatery in Kolkata, famous for its authentic Bengali cuisine. The restaurant offers a variety of traditional dishes, providing visitors with a taste of local flavors. Its warm ambiance and friendly service make it a popular spot for both locals and tourists seeking to experience Kolkata's culinary delights.",
+  "tags": ["food", "restaurant"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7331186773433!2d88.36673481535869!3d22.513626385049837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027aa7f04c3c79%3A0xd6b3a23fc738d41a!2sSufia!5e0!3m2!1sen!2sin!4v1628651498531!5m2!1sen!2sin",
+    "location": "Sufia, Kolkata",
+    "latitude": 22.513626,
+    "longitude": 88.366735
+  }
+},
+{
+  "name": "Tipu Sultan Mosque",
+  "slug": "tipusultan",
+  "image": "/images/tipusultan.jpg",
+  "title": "A historic mosque with beautiful architecture",
+  "description": "Tipu Sultan Mosque is an important historical mosque in Kolkata, named after the famous ruler Tipu Sultan. The mosque features intricate architecture and vibrant colors, making it a significant landmark in the city. Visitors can explore its beautiful interiors and appreciate its cultural importance within Kolkata's diverse heritage.",
+  "tags": ["spiritual", "historical"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.832025059689!2d88.34961981535869!3d22.54661328502485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c22e17fba09%3A0x3b46b7e9f5f14e43!2sTipu%20Sultan%20Mosque!5e0!3m2!1sen!2sin!4v1628651594756!5m2!1sen!2sin",
+    "location": "Tipu Sultan Mosque, Kolkata",
+    "latitude": 22.546613,
+    "longitude": 88.349620
+  }
+}
+]
