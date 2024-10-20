@@ -15,21 +15,8 @@
         "longitude": 88.363896
       }
     },
-    {
-      "name": "Dakshineswar Kali Temple",
-      "slug": "dakshkali",
-      "image": "/images/dakshKali.jpg",
-      "title": "A renowned Hindu temple",
-      "description": "Dakshineswar Kali Temple is a famous Hindu temple situated on the banks of the Hooghly River. Dedicated to Goddess Kali, it attracts thousands of devotees every day. The temple's stunning architecture, with its towering spires and serene surroundings, creates a spiritually uplifting atmosphere. Visitors can witness rituals, partake in prayers, and explore the surrounding ghats.",
-      "tags": ["spiritual", "temple"],
-      "map": {
-        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8060457210453!2d88.37880981535666!3d22.61695128502884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b68b847c2bb%3A0xa004e2e57f15c25f!2sDakshineswar%20Kali%20Temple!5e0!3m2!1sen!2sin!4v1628653689324!5m2!1sen!2sin",
-        "location": "Dakshineswar Kali Temple, Kolkata",
-        "latitude": 22.616951,
-        "longitude": 88.378810
-      }
-    }
-  ,
+    
+  
   
     {
       "name": "Howrah Bridge",
@@ -114,6 +101,20 @@
     "location": "Acropolis Mall, Kolkata",
     "latitude": 22.526065,
     "longitude": 88.392592
+  }
+},
+{
+  "name": "Dakshineswar Kali Temple",
+  "slug": "dakshkali",
+  "image": "/images/dakshi2.jpg",
+  "title": "A renowned Hindu temple",
+  "description": "Dakshineswar Kali Temple is a famous Hindu temple situated on the banks of the Hooghly River. Dedicated to Goddess Kali, it attracts thousands of devotees every day. The temple's stunning architecture, with its towering spires and serene surroundings, creates a spiritually uplifting atmosphere. Visitors can witness rituals, partake in prayers, and explore the surrounding ghats.",
+  "tags": ["spiritual", "temple"],
+  "map": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8060457210453!2d88.37880981535666!3d22.61695128502884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027b68b847c2bb%3A0xa004e2e57f15c25f!2sDakshineswar%20Kali%20Temple!5e0!3m2!1sen!2sin!4v1628653689324!5m2!1sen!2sin",
+    "location": "Dakshineswar Kali Temple, Kolkata",
+    "latitude": 22.616951,
+    "longitude": 88.378810
   }
 },
 {
@@ -480,20 +481,7 @@
     "longitude": 88.421761
   }
 },
-{
-  "name": "St. Paul’s Cathedral",
-  "slug": "stpaul",
-  "image": "/images/stpaul.jpg",
-  "title": "A majestic Anglican cathedral",
-  "description": "St. Paul's Cathedral is a magnificent Anglican cathedral in Kolkata, known for its stunning Gothic architecture and serene gardens. The cathedral's tall spires and intricate stained glass windows create a peaceful atmosphere for visitors. It's a popular site for worship, photography, and exploring the city's colonial heritage.",
-  "tags": ["spiritual", "historical"],
-  "map": {
-    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.928931846843!2d88.42495221536651!3d22.561971085024917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c23f0032c61%3A0x6a27eaa9f53676cb!2sSt.%20Paul's%20Cathedral!5e0!3m2!1sen!2sin!4v1628650974569!5m2!1sen!2sin",
-    "location": "St. Paul’s Cathedral, Kolkata",
-    "latitude": 22.561971,
-    "longitude": 88.424952
-  }
-},
+
   
 {
   "name": "St. Paul’s Cathedral",
